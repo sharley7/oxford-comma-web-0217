@@ -6,5 +6,4 @@ elsif array.count == 2
 elsif array.count >= 3
   array[0...-1].join(', ') + ', and ' + array.last
 end
-
 end
